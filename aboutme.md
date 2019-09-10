@@ -4,11 +4,25 @@ title: Waseem Khan
 subtitle: Freelance Soft. Dev. at Upwork
 ---
 
-My name waseem. I am freelance developer and blogger.
-I work on the following technologies:
+Waseem is passionate about his freelancing career, and like the nomad lifestyle. Waseem has proven his excellence throughout his student life. He won the silver medal in BS (CS), other then that he was also involved in participating in lot programming competetions and always got top 3 positions in every competetion. From 2nd last semester he has been involved in java development on upwork this from where he decided to pursue the java development for his career. He has been working on java projects since 2018.
 
-- java
-- angular
+During his professional life due to being a freelancer he has advantage of having advance understanding and hands on experience of modern trends in software development. He has been working on research and development projects as well as pure development project. He has been involved in working enterprise web development projects.
 
-I love to meet new people, if you are developer and want to get in touch with me, 
-or wanna colloborate with me you can contact me from [oleezee.com](https://www.oleezee.com).
+No matter how challenging task is, his research and development capabilities always deliver excellent performance. Moreover his exceptional critical thinking take care of lot of upcoming unseen issues and save lot of time. He have hands on experience on developing, testing, debugging the new futures in existing enterprise projects. He has been working in development, staging and production environment. He is effecient and innovative in developing new futures end to end, with minimal supervision. He is very exceptional to adopt in new technologies and new environment, and he is also eager to work with teams.
+
+# Professional Skills
+
+- Spring Boot
+- AngularJS + Angular 2+
+- Designing and Building Microservices
+- Building Restful APIs and SOAP APIs
+- Integrating APIs with UI
+- Containerizing the Services and deploying on aws cluster
+- Managing and optimizing AWS solutions
+- Java EE projects
+- Spring Projects
+- Elastic Search
+
+Other then these professional skills I'm always eager to work on other techologies as my hobby.
+
+If you think my professional skills are best fit for you and you have new ideas and looking for reliable developer, then I assure you that you are at right place. I'm sure once we have done it we will have lot more to discuss about, and possibly long term working relationship.
