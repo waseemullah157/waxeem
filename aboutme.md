@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Short introduction.
+title: Muhammad Waseem Ullah Khan
+subtitle: Freelance Soft. Dev. at Upwork
 ---
 
 My name waseem. I am freelance developer and blogger.
