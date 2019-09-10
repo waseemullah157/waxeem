@@ -41,7 +41,7 @@ linkedin:
   baseURL: "https://linkedin.com/in/"
   icon: "fa-linkedin"
 
-linkedin:
+upwork:
   name: "UpWork"
   baseURL: "https://www.upwork.com/freelancers/"
   icon: "fa-upwork"
