@@ -41,6 +41,11 @@ linkedin:
   baseURL: "https://linkedin.com/in/"
   icon: "fa-linkedin"
 
+linkedin:
+  name: "UpWork"
+  baseURL: "https://www.upwork.com/freelancers/"
+  icon: "fa-upwork"
+
 xing:
   name: "Xing"
   baseURL: "https://www.xing.com/profile/"
