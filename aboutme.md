@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Muhammad Waseem Ullah Khan
+title: Waseem Khan
 subtitle: Freelance Soft. Dev. at Upwork
 ---
 
