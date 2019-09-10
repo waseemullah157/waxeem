@@ -23,6 +23,6 @@ No matter how challenging task is, his research and development capabilities alw
 - Spring Projects
 - Elastic Search
 
-Other then these professional skills I'm always eager to work on other techologies as my hobby.
+Other then these professional skills I'm always eager to work on other techologies as my hobby. And I remain active on github, stackoverflow to contribute to our community. You are welcome to have look on my those accounts. Links to these accounts are given in Contact Info section.
 
 If you think my professional skills are best fit for you and you have new ideas and looking for reliable developer, then I assure you that you are at right place. I'm sure once we have done it we will have lot more to discuss about, and possibly long term working relationship.
