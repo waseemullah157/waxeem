@@ -25,7 +25,7 @@ description: This is my personal website for blogging.
 navbar-links:
   About Me: "aboutme"
   CV: "www.google.com?=linkedin.com/waseemullah157"
-  - Contact Info: "#"
+  Contact Info: ""
   Resources:
     # - oleezee.com: "https://www.oleezee.com"
     - GitHub: "https://github.com/waseemullah157/"
