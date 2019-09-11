@@ -4,7 +4,7 @@ title: Cyber Security
 subtitle: How to save yourself from potential cyber threats
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-bigimg: /img/path.jpg
+bigimg: /img/hacking.png
 tags: [test]
 comments: true
 ---
