@@ -14,16 +14,16 @@
       {% endif %}
     </div>
 
-    <div style="padding-right: 20; padding-left:20" class="collapse navbar-collapse" id="main-navbar">
+    <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
       {% for link in site.navbar-links %}
         {% if link[1].first %}
           <li class="navlinks-container">
             <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
-            <div class="navlinks-children">
+            <div style="padding-right: 20; padding-left:20" class="navlinks-children">
               {% for childlink in link[1] %}
                 {% for linkparts in childlink %}
-                  {% include navbarlink.html link=linkparts %} +debug
+                  {% include navbarlink.html link=linkparts %}
                 {% endfor %}
               {% endfor %}
             </div>
