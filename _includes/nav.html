@@ -14,7 +14,7 @@
       {% endif %}
     </div>
 
-    <div class="collapse navbar-collapse" id="main-navbar">
+    <div style="padding-right: 20; padding-left:20" class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
       {% for link in site.navbar-links %}
         {% if link[1].first %}
@@ -23,7 +23,7 @@
             <div class="navlinks-children">
               {% for childlink in link[1] %}
                 {% for linkparts in childlink %}
-                  {% include navbarlink.html link=linkparts %}
+                  {% include navbarlink.html link=linkparts %} +debug
                 {% endfor %}
               {% endfor %}
             </div>
