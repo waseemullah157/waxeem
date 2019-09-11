@@ -10,7 +10,7 @@
       {% if site.title-img %}
         <a class="navbar-brand navbar-brand-logo" href="{{ site.url }}"><img src="{{ site.title-img }}"/></a>
       {% else %}
-        <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
+        <a  style="padding-right: 20; padding-left:20" class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
       {% endif %}
     </div>
 
@@ -20,7 +20,7 @@
         {% if link[1].first %}
           <li class="navlinks-container">
             <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
-            <div style="padding-right: 20; padding-left:20" class="navlinks-children">
+            <div class="navlinks-children">
               {% for childlink in link[1] %}
                 {% for linkparts in childlink %}
                   {% include navbarlink.html link=linkparts %}
