@@ -21,9 +21,15 @@ Whatever the target of hacker is, it must have some hack value. Which is benefit
 
 ## Research and Development in Hacking
 
-Usually common men encounter the hacker who is expert in using already developed hacking tools. These tools are developed with heavy research and development which is conducted by different parties, some are open source and some are confidential. Confidentially developed tools are kept by intelligence agencies and main stream evil hackers.
+Usually common men encounter the hacker who is expert in using already developed hacking tools. These tools are developed with heavy research and development which is conducted by different parties, some are open source and some are confidential. Confidentially developed tools are kept by intelligence agencies and main stream evil hackers. And open source tools are mostly used by a common hacker. 
 
-Every piece of software you download or install your system can potentially compromise your system.
+## Vicitim of Common available hacking tools
+
+There are many anti-malware companies which spend millions of dollors in research to find each and every vulnerability. Every piece of software you download or install on your system can potentially compromise your system. If you install the software developed by untrusted party that party can compromise your system it self. 
+
+But even if you install only trusted softwares, still you are potentially exposed to threat. This is because every software may have some vulnerabilities, which a hacker can manipulate. That's why every software is mantained and regular security updates are provided. They continusly try to find those vulnerabilities and make patch to secure their users.
+
+But unfortunately there are many people who just ignore those updates. When you use old version of software, potentially there will be free opensourced or paid tools to manipulate that. And this is where common hacker manipulate.
 
 ## Common Methods of Hackers
 
