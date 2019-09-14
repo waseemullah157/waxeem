@@ -4,7 +4,7 @@ title: Waseem Khan
 subtitle: Freelance Soft. Dev. at Upwork
 ---
 
-Waseem is passionate about his freelancing career, and like the nomad lifestyle. Waseem has proven his excellence throughout his student life. He won the silver medal in BS (CS), other then that he was also involved in participating in lot programming competetions and always got top 3 positions in every competetion. From 2nd last semester he has been involved in java development on upwork. And this is from where he decided to pursue the java development for his career. He has been working on java projects since 2018.
+Waseem is passionate about his freelancing career, and like the nomad lifestyle. Waseem has proven his excellence throughout his student life. He won the silver medal in BS (CS), other then that he was also involved in participating in lot programming competetions and always got top 3 positions in every competetion. From 2nd last semester (2018) he has been involved in java development on upwork. And this is from where he decided to pursue the java development for his career. He has been working on java projects since 2018.
 
 During his professional life due to being a freelancer he has advantage of having advance understanding and hands on experience of modern trends in software development. He has been working on research and development projects as well as pure development project. He has been involved in working enterprise web development projects.
 
