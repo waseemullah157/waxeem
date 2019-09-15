@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Cyber Security
-subtitle: How to save yourself from potential cyber threats
+title: How to save your self from hackers?
+subtitle: How to save yourself from hackers
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 bigimg: /img/hacking.png
-tags: [Hacking, Hack, Hacking Facebook, Hiring Hacker, Hacking Friends Profile]
+tags: [Save your privacy, Hacking, Secure Facebook, All you need to know about hacking, Ethical Hacking]
 comments: true
 ---
 
