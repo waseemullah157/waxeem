@@ -7,8 +7,6 @@ tags: [Save your privacy, Hacking, Secure Facebook, All you need to know about h
 comments: true
 ---
 
-## How to save yourself from hackers
-
 As a software developer I'm often asked about hacking, and my friends insist me to help them to hack the profiles of their friends. Often their expectations are unrealistic because usually they are not aware of the science behind hacking. For most people hacking is like magic and hacker is magician, and often such people are victim of evil hackers.
 
 Here in this article I’ll try to explain the science behind hacking, which will help both normal person and people who are interested in hacking and are willing to invest their time and money in it. After reading this article you will be aware of the intentions of evil hackers and you will also be able to save your privacy, time and money.
