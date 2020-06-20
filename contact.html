@@ -1,8 +1,19 @@
 <html>
 <head>
+<script src='https://www.google.com/recaptcha/api.js'></script>
 <script>
+function verifyCaptcha() {
+    document.getElementById('g-recaptcha-error').innerHTML = '';
+}
 function submitToAPI(e) {
        e.preventDefault();
+
+var response = grecaptcha.getResponse();
+    if(response.length == 0) {
+        document.getElementById('g-recaptcha-error').innerHTML = '<span style="color:red;">This field is required.</span>';
+        return false;
+    }
+
 //       var URL = "API Gateway";
 
 
@@ -68,9 +79,11 @@ function submitToAPI(e) {
       <h4>How can we help you?</h4>
       <textarea id="description-input" rows="3" placeholder="Enter your message..." class="form-control" style="width:100%;"></textarea><br/>
       <div class="g-recaptcha" data-sitekey="6Lc7cVMUAAAAAM1yxf64wrmO8gvi8A1oQ_ead1ys" class="form-control" style="width:100%;"></div>
-	<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
-        async defer>
-    </script>      
+	
+
+<div class="g-recaptcha" data-sitekey="6LfYRKcZAAAAADlwQGnAGWY5Rw2aqsy1sIfT_lA3" data-callback="verifyCaptcha"></div>
+    <div id="g-recaptcha-error"></div>
+   
 <button type="button" onClick="submitToAPI(event)" class="btn btn-lg" style="margin-top:20px;">Submit</button>
 </form>
 
