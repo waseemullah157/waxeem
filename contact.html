@@ -68,7 +68,10 @@ function submitToAPI(e) {
       <h4>How can we help you?</h4>
       <textarea id="description-input" rows="3" placeholder="Enter your message..." class="form-control" style="width:100%;"></textarea><br/>
       <div class="g-recaptcha" data-sitekey="6Lc7cVMUAAAAAM1yxf64wrmO8gvi8A1oQ_ead1ys" class="form-control" style="width:100%;"></div>
-      <button type="button" onClick="submitToAPI(event)" class="btn btn-lg" style="margin-top:20px;">Submit</button>
+	<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+        async defer>
+    </script>      
+<button type="button" onClick="submitToAPI(event)" class="btn btn-lg" style="margin-top:20px;">Submit</button>
 </form>
 
 </body>
