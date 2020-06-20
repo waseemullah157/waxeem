@@ -44,7 +44,8 @@ var response = grecaptcha.getResponse();
           name : name,
           phone : phone,
           email : email,
-          desc : desc
+          desc : desc,
+	  captcha: response
         };
 
 		var xmlhttp = new XMLHttpRequest();
